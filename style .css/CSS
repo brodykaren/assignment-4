@@ -1,7 +1,11 @@
-<style type="text/css">
 
-  h1 {
-    color:darkblue;
-  }
 
-</style>
+h1{
+color:darkblue;
+}
+
+body{
+background-color: #F1E0D0
+ color:#555555;
+ font-family: open sans-serif;
+}
